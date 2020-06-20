@@ -44,5 +44,9 @@
         </plugins>
     </build>
 
+    <scm>
+        <developerConnection>scm:git:https://github.com/raggiodelsole/sfg-pet-clinic.git</developerConnection>
+    </scm>
+
 
 </project>
